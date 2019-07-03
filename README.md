@@ -75,7 +75,7 @@ support language
   'auto': 'auto'  
 
 ----------
-How to make python third-party library and upload to PyPi
+How to make python third-party library and upload to PyPi, as flow:
 ----------
 step1: python setup.py sdist  
 step2: pip install twine  
