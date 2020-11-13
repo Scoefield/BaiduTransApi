@@ -72,6 +72,7 @@ support language
   'maltese': 'mt',  
   'chinese_simplified': 'zh-CN',  
   'chinese_traditional': 'zh-TW',  
+  "yue":"Cantonese",
   'auto': 'auto'  
 
 ----------
